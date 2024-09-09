@@ -1,3 +1,5 @@
+Live Hosted URL : https://sushmita-portfoli.netlify.app/
+
 # react-portfolio-website
 
 # Getting Started with Create React App
