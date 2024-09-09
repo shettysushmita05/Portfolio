@@ -26,11 +26,11 @@ const Work = () => {
                 My Latest <br />
                 Work.
               </h2>
-              <p className="max-w-sm mb-10">
+              {/* <p className="max-w-sm mb-10">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint,
                 veniam enim ad repudiandae odio recusandae accusantium totam
                 dolorem harum eum.
-              </p>
+              </p> */}
               <button className="btn btn-sm"><a href="https://github.com/shettysushmita05 ">View all projects</a> </button>
             </div>
 
