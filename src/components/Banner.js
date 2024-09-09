@@ -70,8 +70,7 @@ const Banner = () => {
              whileInView={"show"}
              viewport={{ once: false, amount: 0.7 }}
             className="mb-8 max-w-lg mx-auto lg:mx-0">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-              mollitia, molestiae quas vel sint comm.
+              
             </motion.p>
             <motion.div 
              variants={fadeIn("up", 0.6)}
